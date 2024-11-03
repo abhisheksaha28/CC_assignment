@@ -1,0 +1,29 @@
+#hero h1 {
+    width: 100%;
+    position: absolute;
+    top: 340px;
+    left: -33px;
+    font-size: 30px;
+    text-align: center;
+}
+#hero p {
+    width: 100%;
+    position: absolute;
+    top: 412px;
+    left: -39px;
+    font-size: 20px;
+    text-align: center;
+}
+#hero .Resume {
+    width: 65%;
+    position: absolute;
+    left: 35px;
+    top: 482px;
+    padding: 15px 30px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 20px;
+    border: 0;
+    cursor: pointer;
+}
